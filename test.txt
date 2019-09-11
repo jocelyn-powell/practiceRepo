@@ -1,4 +1,4 @@
 Test file for practicing command line.
 Learning git commands.
-Creating repositories and test files.
+Creating repositories and test directories.
 
