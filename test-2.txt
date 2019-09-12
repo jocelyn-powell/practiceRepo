@@ -1,3 +1,3 @@
 New test document to make merge conflict.
 Creating doc to simulate changes.
-
+Writing new sentence to practice merging branches in remote repositories.
