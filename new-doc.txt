@@ -2,3 +2,4 @@ Creating another doc to test pushing a branch that is not a master branch.
 More lines of text.
 One more line.
 Master branch change.
+Change should show in desktop app.
